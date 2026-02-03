@@ -2,3 +2,18 @@ UML
 UHnified modeling language it is jsut a language not a methodology 
 What is Multiplicity (UML)?
   Multiplicity specifies how many instances of one class can be associated with a single instance of another class.
+What does .. mean in UML?
+
+.. means “range” or “from–to”
+
+It is used mainly in multiplicity to specify a lower and upper bound.
+What does * mean in UML?
+
+* means “many” or “unbounded”
+
+In UML, * is shorthand for:
+
+0..
+∗
+0..∗
+	​
