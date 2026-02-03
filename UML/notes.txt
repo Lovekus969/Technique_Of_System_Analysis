@@ -1,0 +1,4 @@
+UML
+UHnified modeling language it is jsut a language not a methodology 
+What is Multiplicity (UML)?
+  Multiplicity specifies how many instances of one class can be associated with a single instance of another class.
