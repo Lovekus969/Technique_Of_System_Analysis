@@ -13,3 +13,20 @@ SDLC Phases Covered
     Maintenance
 
 This project mainly emphasizes Requirement Analysis, which is the foundation of the SDLC.
+Agile Development
+    Agile Development is an iterative and incremental approach to software development that focuses on flexibility, customer collaboration, and continuous improvement.
+
+Key Characteristics
+    Development is done in small iterations
+    Frequent feedback from customers
+    Welcomes changing requirements
+    Working software is delivered early and often
+
+The Unified Process (UP)
+    The Unified Process (UP) is a use-case-driven, architecture-centric, and iterative software development framework.
+
+Phases of UP:
+    Inception – Define scope and feasibility
+    Elaboration – Analyze requirements and design architecture
+    Construction – Build the system
+    Transition – Deploy and maintain the system
