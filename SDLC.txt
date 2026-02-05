@@ -1,0 +1,15 @@
+SDLC Phases Covered
+
+    Requirement Analysis
+    
+    System Design
+    
+    Implementation
+    
+    Testing
+    
+    Deployment
+    
+    Maintenance
+
+This project mainly emphasizes Requirement Analysis, which is the foundation of the SDLC.
