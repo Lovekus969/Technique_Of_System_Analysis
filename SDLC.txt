@@ -30,3 +30,13 @@ Phases of UP:
     Elaboration – Analyze requirements and design architecture
     Construction – Build the system
     Transition – Deploy and maintain the system
+
+Extreme Programming (XP)
+    Extreme Programming (XP) is an Agile methodology that emphasizes high-quality code and customer satisfaction through strict development practices.
+
+Core Practices : 
+        Pair programming
+        Test-Driven Development (TDD)
+        Continuous integration
+        Frequent releases
+        Simple design
