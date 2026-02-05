@@ -48,3 +48,25 @@ Scrum Roles
     Product Owner – Defines product requirements
     Scrum Master – Facilitates the process
     Development Team – Builds the product
+
+Predictive Approach to the SDLC
+🔹 Model: Waterfall
+This approach assumes everything can be planned upfront.
+    Key Ideas
+            Full planning is done before development starts
+            Each phase is completed once, in order
+            Very little room for change later
+
+Adaptive Approach to the SDLC
+🔹 Model: Iterative
+This approach assumes change is normal.
+
+Key Ideas
+        System is built in small iterations
+        Feedback is used continuously
+        Design and requirements evolve over time
+
+Works best when:
+        Requirements are uncertain
+        User needs may change
+        High technical or business risk
