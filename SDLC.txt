@@ -40,3 +40,11 @@ Core Practices :
         Continuous integration
         Frequent releases
         Simple design
+
+Scrum
+    Scrum is a lightweight Agile framework used to manage and deliver complex software products through time-boxed iterations called sprints.
+
+Scrum Roles
+    Product Owner – Defines product requirements
+    Scrum Master – Facilitates the process
+    Development Team – Builds the product
