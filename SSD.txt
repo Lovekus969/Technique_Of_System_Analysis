@@ -1,0 +1,23 @@
+What SSD actually represents
+
+SSD = System Sequence Diagram
+It shows interaction over time
+Focuses on messages between Actor and System
+
+Very linear (top → bottom)
+  What Activity / Graph representation is
+
+  This comes from an Activity Diagram, not SSD.
+Shows workflow / control flow
+
+Uses:
+
+      Nodes (activities)
+      Arrows (flow)
+      Decisions (diamond)
+      Looks like a graph
+Can show:
+
+      Conditions
+      Loops
+      Parallel actions
