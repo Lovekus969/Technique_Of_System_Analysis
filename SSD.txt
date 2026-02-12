@@ -21,3 +21,10 @@ Can show:
       Conditions
       Loops
       Parallel actions
+
+What is a System Sequence Diagram?
+  A System Sequence Diagram shows:
+    The actor (like Student, Customer, Admin)
+    The system as a single black box
+    The sequence of messages (interactions) between actor and system
+    The order of events over time
