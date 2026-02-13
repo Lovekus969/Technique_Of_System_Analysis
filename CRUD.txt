@@ -1,0 +1,9 @@
+Sample CRUD Matrix used in System Analysis & Design (SAD).
+
+What is a CRUD Matrix?
+
+CRUD stands for:
+    C → Create
+    R → Read
+    U → Update
+    D → Delete
