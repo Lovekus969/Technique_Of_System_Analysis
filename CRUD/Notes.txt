@@ -1,0 +1,11 @@
+In System Analysis & Design
+
+In System Analysis, CRUD is used to:
+
+    Understand how users interact with data
+    
+    Design database tables
+    
+    Create use cases
+    
+    Build CRUD matrix
