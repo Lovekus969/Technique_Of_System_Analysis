@@ -9,3 +9,7 @@ In System Analysis, CRUD is used to:
     Create use cases
     
     Build CRUD matrix
+
+How can you detect missing use cases?
+
+    Missing use cases can be detected using CRUD matrix analysis, event decomposition, actor analysis, and requirement traceability. If an entity lacks required CRUD             operations, or if events or actors are not represented, the system model may be incomplete.
