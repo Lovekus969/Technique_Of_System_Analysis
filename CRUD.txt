@@ -7,3 +7,23 @@ CRUD stands for:
     R → Read
     U → Update
     D → Delete
+Entities:
+            Customer
+            Appointment
+
+Use cases given by professor:
+                                Create Customer
+                                Update Customer
+                                Delete Customer
+                                Create Appointment
+CRUD Matrix:
+| Use Case           | Customer | Appointment |
+| ------------------ | -------- | ----------- |
+| Create Customer    | C        |             |
+| Update Customer    | U        |             |
+| Delete Customer    | D        |             |
+| Create Appointment | R        | C           |
+
+Yes, some use cases appear to be missing. Based on the CRUD matrix, certain entities do not have all CRUD operations (Create, Read, Update, Delete). This indicates that additional use cases may be required. However, the matrix only shows the operations performed on entities and does not specify the exact names or IDs of the missing use cases. Therefore, we can identify that operations are missing but cannot determine the exact use case IDs.
+
+
