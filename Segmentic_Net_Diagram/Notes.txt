@@ -1,0 +1,2 @@
+What is a Segment Net Diagram? 
+A Segment Net Diagram represents a portion of the system showing how different domain classes are connected through relationships, including their cardinalities.
