@@ -14,3 +14,5 @@ How can you detect missing use cases?
 
     Missing use cases can be detected using CRUD matrix analysis, event decomposition, actor analysis, and requirement traceability. If an entity lacks required CRUD             operations, or if events or actors are not represented, the system model may be incomplete.
 No we can say according to crud matrix some of the features are missing which lead to missing some use cases anyhow we can not describe which use case in actual got missed.
+
+The CRUD matrix helps identify missing use cases by revealing incomplete lifecycle operations for entities.
